@@ -1,7 +1,5 @@
 ![Mapping & Motion Lab, University of Michigan Robotics](banner.png)
 
-We develop visual representations that let robots predict, plan, and search in places they have never seen, from buildings to planetary terrain.
-
 **[Lab website](https://m-and-m-lab.github.io)** for new research, people, and project pages.
 **[Contact form](https://forms.gle/8UWUpDH4bdLeTq5Y8)** if you are interested in doing research with the lab.
 
