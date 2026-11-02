@@ -1,7 +1,7 @@
 ![Mapping & Motion Lab, University of Michigan Robotics](banner.png)
 
 **[Lab website](https://m-and-m-lab.github.io)** for new research, people, and project pages.
-**[Contact form](https://forms.gle/8UWUpDH4bdLeTq5Y8)** if you are interested in doing research with the lab.
+**[Contact form](https://docs.google.com/forms/d/e/1FAIpQLScM_YcE1hS7Xy-uRq876Cz6vuYzJW-Fi_rRMM43TGJxRxUh-A/viewform)** if you are interested in doing research with the lab.
 
 ## Simulation software
 
